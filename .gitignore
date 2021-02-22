@@ -5,4 +5,3 @@ dist
 functions
 .cache
 .env
-yarn.lock
