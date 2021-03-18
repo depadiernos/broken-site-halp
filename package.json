@@ -21,6 +21,7 @@
     "parcel-bundler": "^1.12.3"
   },
   "dependencies": {
+    "yarn",
     "axios": "^0.19.0",
     "npm-run-all": "^4.1.5",
     "reset.css": "^2.0.2",
